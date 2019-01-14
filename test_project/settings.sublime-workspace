@@ -1,0 +1,610 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"res",
+				"resumeFile"
+			],
+			[
+				"resume",
+				"resumeFile"
+			],
+			[
+				"resum",
+				"resumeFile"
+			],
+			[
+				"com",
+				"companyName"
+			],
+			[
+				"Action",
+				"ActionListener"
+			],
+			[
+				"retw",
+				"retweetId"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"add",
+				"addActionListener"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"back",
+				"back-end"
+			],
+			[
+				"logo",
+				"logout"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"ima",
+				"image"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"sa",
+				"sampleFishes"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"price",
+				"price"
+			],
+			[
+				"store",
+				"storeInput"
+			],
+			[
+				"st",
+				"storeInput"
+			],
+			[
+				"S",
+				"StorePicker"
+			],
+			[
+				"Route",
+				"Route"
+			],
+			[
+				"cal",
+				"className"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"pr",
+				"process"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"is",
+				"isAuthenticated"
+			],
+			[
+				"comm",
+				"comment_id"
+			],
+			[
+				"foun",
+				"foundComment"
+			],
+			[
+				"camp",
+				"campground"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"cam",
+				"campground"
+			],
+			[
+				"ex",
+				"expressSession"
+			],
+			[
+				"commen",
+				"comments"
+			],
+			[
+				"seed",
+				"seedDB"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"metho",
+				"methodOverride"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"fin",
+				"findById"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"animal",
+				"animalName"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"t",
+				"t"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"we",
+				"weather-iconid"
+			],
+			[
+				"icon",
+				"iconD"
+			],
+			[
+				"pres",
+				"pressure"
+			],
+			[
+				"wind",
+				"windspeed"
+			],
+			[
+				"pre",
+				"pressure"
+			],
+			[
+				"win",
+				"windspeed"
+			],
+			[
+				"hum",
+				"humidity"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"qu",
+				"quotes"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"overfl",
+				"overflow-wrap"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"f",
+				"fromCharCode"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"my",
+				"myTimer"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"backgroun",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: e",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 565.0
+	},
+	"console":
+	{
+		"height": 185.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"cd /Library/Application\\ Support/Sublime\\ Text\\ 3/Packages",
+			"cd ~/Library/Application\\ Support/Sublime\\ Text\\ 3/Packages",
+			"mkdir -p ~/Library/Application\\ Support/Sublime\\ Text\\ 3/Packages",
+			"mkdir -p ~/Library/Application\\ Support/Sublime\\ Text\\ 2/Packages",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Notes/Hire.txt",
+		"/D/Notes/messa.txt",
+		"/D/Notes/New Text Document.txt",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/All Java/Competitive/src/net/egork/graph/MinCostFlow.java",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/All Java/Competitive/src/egork/numbers/IntegerUtils.java",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/All Java/Competitive/src/IntegerUtils/IntegerUtils.java",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/All Java/Competitive/src/DS/DisjointSet.java",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/All Java/Competitive/src/snippets/Conversion.txt",
+		"/D/Notes/grfd.txt",
+		"/D/Notes/BTP Peoposal.txt",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/All Java/Competitive/output/Main.java",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/All Java/Competitive/src/Data Structures/Segment Tree.java",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/All Java/Competitive/src/Data Structures/DisJointSet.java",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/winningresume/models/Resume.js",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/winningresume/views/AddResume.ejs",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Yelp-Camp/views/campgrounds/index.ejs",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/winningresume/views/Home.ejs",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/winningresume/views/Search.ejs",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/winningresume/index.js",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Yelp-Camp/routes/campgrounds.js",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/All Java/Competitive/output/help-ashu-1.java",
+		"/C/Users/Prakhar Gupta/Downloads/Gest.ly-master/Gest.ly-master/open-cv.py",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/All Java/Competitive/output/1092B - Teams Forming.java",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Yelp-Camp/views/campgrounds/show.ejs",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Yelp-Camp/views/campgrounds/new.ejs",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Yelp-Camp/routes/index.js",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Yelp-Camp/models/camp.js",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Competitive-Codes/CodeForces/1084C - The Fair Nut And The String.java",
+		"/D/New Text Document.txt",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Yelp-Camp/views/home.ejs",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/winningresume/views/partials/header.ejs",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Twitter-Bot/src/bot.js",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Twitter-Bot/src/config.js",
+		"/D/Notes/blog1.txt",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Twitter-Bot/index.js",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Twitter-Bot/config.js",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Twitter-Bot/package.json",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Twitter-Bot/bot.js",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Twitter-Bot/package-lock.json",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Institute-Process-Management/Form.java",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Institute-Process-Management/viewProcess.java",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Institute-Process-Management/Home.java",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Institute-Process-Management/Main.java",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Institute-Process-Management/Login.java",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/All Java/Assignments/Assignment 7/DVD.java",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/All Java/Assignments/Assignment 7/Book.java",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/All Java/Assignments/Assignment 8/Q1.java",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/All Java/Assignments/Assignment 9[TextEditor]/Design.java",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/All Java/Assignments/Assignment 9[TextEditor]/Editor.java",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/All Java/Assignments/Assignment 9[TextEditor]/Open.java",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Institute-Process-Management/AddProcess.java",
+		"/C/Users/Prakhar Gupta/Downloads/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44/README.txt",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/cmd.txt",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/MiniProject/backend/server.js",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Yelp-Camp/app.js",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/MiniProject/backend/config/database.js",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Image-Stitching/main.py",
+		"/E/avl.txt",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Image-Stitching/func.py",
+		"/C/Users/Prakhar Gupta/Downloads/Gest.ly-master/README.md",
+		"/E/grfd.txt",
+		"/C/Users/Prakhar Gupta/Downloads/panorama-stitching/func.py",
+		"/C/Users/Prakhar Gupta/Downloads/panorama-stitching/main.py",
+		"/C/Users/Prakhar Gupta/Downloads/panorama-stitching/stitch.py",
+		"/C/Users/Prakhar Gupta/Downloads/panorama-stitching/panorama.py",
+		"/C/Users/Prakhar Gupta/Downloads/panorama-stitching/pyimagesearch/panorama.py",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Python-Multiple-Image-Stitching/code/txtlists/files1.txt",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Python-Multiple-Image-Stitching/README.md",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Institute-Process-Management/ReviewProcess.java",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/All Java/Assignments/Assignment 8/Q2.java",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/MiniProject/backend/config/passport.js",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/MiniProject/backend/app/routes.js",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/MiniProject/backend/package.json",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/MiniProject/backend/views/profile.ejs",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/MiniProject/backend/views/signup.ejs",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/MiniProject/backend/views/login.ejs",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/MiniProject/backend/app.js",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/MiniProject/backend/views/index.ejs",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/MiniProject/backend/app/models/user.js",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/MiniProject/backend/views/home.ejs",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Yelp-Camp/seeds.js",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/MiniProject/views/partials/header.ejs",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/MiniProject/package.json",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/MiniProject/models/user.js",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Chatbot/index.js",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/MiniProject/app.js",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/MiniProject/views/signup.ejs",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/MiniProject/routes/index.js",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/MiniProject/middleware/index.js",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Yelp-Camp/middleware/index.js",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Yelp-Camp/models/user.js",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/MiniProject/views/login.ejs",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Yelp-Camp/views/partials/header.ejs",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Yelp-Camp/package.json",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/All Java/Competitive/src/snippets/Custom Sort.txt",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/All Java/Competitive/src/snippets/HashMap.txt",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/All Java/Competitive/src/snippets/print.txt",
+		"/C/Program Files/Apache Software Foundation/Tomcat 9.0/webapps/ROOT/RELEASE-NOTES.txt",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/MiniProject/views/home.ejs",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/MiniProject/views/partials/footer.ejs",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Yelp-Camp/views/partials/footer.ejs",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/hacktoberfest-1/contributors.html",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/All Java/Competitive/src/FastIO/InputReader.java",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/All Java/Competitive/src/snippets/Math Functions.txt",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/hacktoberfest-1/README.md",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/hacktoberfest-1/CONTRIBUTING.md",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/hacktoberfest/CONTRIBUTORS.md",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/hacktoberfest/profiles/Prakhar Gupta.md",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/hacktoberfest/profiles/Acquila_Santos.md",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/All Java/Competitive/src/snippets/Node.txt",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/All Java/Competitive/src/Library/Utility.java",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/All Java/Competitive/src/logics.txt",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/Competitive-Codes/CodeForces/1051C - Vasya And Multisets.java",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/All Java/CHEFADV.java",
+		"/C/Users/Prakhar Gupta/Downloads/Dev/All Java/MAGICHF.java",
+		"/C/Users/Prakhar Gupta/Downloads/Gitroom/react-basics/webpack.config.js",
+		"/C/Users/Prakhar Gupta/Downloads/Gitroom/react-basics/src/index.html",
+		"/C/Users/Prakhar Gupta/Downloads/Gitroom/react-basics/package.json",
+		"/C/Users/Prakhar Gupta/Downloads/Gitroom/Portfolio/index.html",
+		"/C/Users/Prakhar Gupta/Downloads/log.txt",
+		"/C/Users/Prakhar Gupta/Downloads/Gitroom/Yelp-Camp/README.md",
+		"/C/Users/Prakhar Gupta/Downloads/Gitroom/Portfolio/README.md",
+		"/C/Users/Prakhar Gupta/Downloads/Gitroom/lnmhacks.github.io/public/index.html",
+		"/C/Users/Prakhar Gupta/Downloads/Gitroom/lnmhacks.github.io/public/css/tracks.css",
+		"/C/Users/Prakhar Gupta/Downloads/Gitroom/Yelp-Camp/app.js",
+		"/C/Users/Prakhar Gupta/Downloads/Gitroom/Yelp-Camp/routes/index.js",
+		"/C/Users/Prakhar Gupta/Downloads/Gitroom/prakhar897.github.io/index.html",
+		"/C/Users/Prakhar Gupta/Downloads/Gitroom/Yelp-Camp/public/stylesheet/main.css"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 40.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "settings.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
